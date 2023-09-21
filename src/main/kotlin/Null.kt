@@ -7,5 +7,5 @@ fun main(args: Array<String>) {
     println(str)
     //non-nullable type
     var myname:String="Dominic"
-    myname=null
+   // myname=null
 }
